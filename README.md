@@ -11,13 +11,13 @@ o	Flutter'da GridView kullanarak butonları düzenli bir şekilde yerleştirdim.
 
 o	Her butonun üzerine bir simge ve etiket ekledim.
 
-3.	Sayfalar Arası Geçiş:
+2.	Sayfalar Arası Geçiş:
    
 o	Her butona bir yönlendirme ekledim.
 
 o	Flutter'ın Navigator.push fonksiyonunu kullanarak, butonlara tıklandığında ilgili sayfanın açılmasını sağladım.
 
-5.	Her Profil için Ayrı Sayfalar:
+3.	Her Profil için Ayrı Sayfalar:
    
 o	Çiftçiler için bir ana sayfa tasarladım (FarmerPage).
 
@@ -27,7 +27,7 @@ o	Yeni başlayanlar ve tarım haberleri için iki ayrı sayfa ekledim (BeginnerP
 
 o	Her sayfayı Scaffold yapısı kullanarak basit bir düzenle hazırladım.
 
-7.	Kod Yapısı ve Düzeni:
+4.	Kod Yapısı ve Düzeni:
    
 o	Kodları düzenli tutmak için her sayfa için ayrı bir dosya oluşturdum (farmer_page.dart, engineer_page.dart, vb.).
 
