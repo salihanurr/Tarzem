@@ -19,8 +19,9 @@ o	Kodları düzenli tutmak için her sayfa için ayrı bir dosya oluşturdum (fa
 o	main.dart dosyasını ana uygulama kontrol merkezi olarak kullandım ve tüm sayfaları buradan bağladım.
 
 Yapılacaklar
-•	Şu an projenin frontend kısmını tamamladım.
-•	İlerleyen aşamalarda:
+
+ •	Şu an projenin frontend kısmını tamamladım.
+ •	İlerleyen aşamalarda:
 1.	PostgreSQL veri tabanını Node.js ile bağlayıp kullanıcı verilerini dinamik olarak yöneteceğim.
 2.	Tarım haberlerini bir API'den alıp uygulamada göstereceğim.
 3.	Tasarımları geliştireceğiz ve daha görsel bir hale getireceğim.
