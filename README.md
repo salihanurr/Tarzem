@@ -41,3 +41,13 @@ Yapılacaklar
 1.	PostgreSQL veri tabanını Node.js ile bağlayıp kullanıcı verilerini dinamik olarak yöneteceğim.
 2.	Tarım haberlerini bir API'den alıp uygulamada göstereceğim.
 3.	Tasarımları geliştireceğiz ve daha görsel bir hale getireceğim.
+
+   
+
+PROJE VERİTABANI OLUŞTURMA
+
+   Projede veritabanı oluşturmak için PostgreSQL kullandım. İlk aşama için sadece tabloları oluşturdum. Henüz veri girişi bulunmamaktadır. tarzem.sql de kodları bulunmaktadır.
+
+  
+
+
